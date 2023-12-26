@@ -1,3 +1,5 @@
+Live LInk : https://fascinating-dragon-a03024.netlify.app/
+
 # OCR Project
 
 This project focuses on Optical Character Recognition (OCR) to extract text from images.
