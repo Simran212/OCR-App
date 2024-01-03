@@ -6,7 +6,7 @@ This project focuses on Optical Character Recognition (OCR) to extract text from
 
 ## Overview
 
-The OCR project is aimed at extracting textual information from images or scanned documents. It utilizes [insert technology/library/tool name] to perform character recognition and convert images into editable text.
+The OCR project is aimed at extracting textual information from images or scanned documents.
 
 ## Features
 
